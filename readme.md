@@ -8,3 +8,5 @@ Each page has several sections that complement each other:
 - notes attached to those links
 - and, if it's been scanned in, the image of the chapter itself
 - and more to come as I flesh out the concept a little more.
+
+The physical component is a little more difficult for integration, but that's the main challenge I'd like to tackle here. Aside from just making the product in the first place, of course. Here's [a link](https://www.evernote.com/shard/s23/sh/7bda1387-647d-4bef-8eb6-b16f3becdee9/ce2841cd55e93ba1415e73819751d53a) to a scribble I made that shows the general concept.
